@@ -1,4 +1,5 @@
 # cloud_app_dev_project1
+
 # Medibot Website with IBM Watson Assistant README
 
 Welcome to the Medibot website powered by IBM Watson Assistant. This README guide provides essential information on how to navigate the website, update content, and manage dependencies related to IBM Watson Assistant.
@@ -30,4 +31,23 @@ Maintaining up-to-date content is crucial for the Medibot website:
 
 - **Chatbot Responses:** Medibot's responses are managed through IBM Watson Assistant. Access the Watson Assistant dashboard to modify intents, entities, and dialog nodes to keep the chatbot's responses in line with the latest medical knowledge and user feedback.
 
-- **Articles and Resources:** Update articles and resources by accessing the website's CMS or database where the content is stored. Regularly review and update content to ensure it remains
+- **Articles and Resources:** Update articles and resources by accessing the website's CMS or database where the content is stored. Regularly review and update content to ensure it remains relevant and accurate.
+
+## 4. Dependencies
+The Medibot website relies on several key dependencies, particularly related to IBM Watson Assistant:
+
+- **IBM Watson Assistant:** The chatbot's intelligence is powered by IBM Watson Assistant. Access the Watson Assistant service for managing the chatbot's capabilities, responses, and conversational flows.
+
+- **IBM Cloud:** The Medibot website may use IBM Cloud services for hosting and managing various components. Ensure IBM Cloud services are well-maintained.
+
+- **Web Hosting:** The website is hosted on a web server or cloud platform (e.g., AWS, Heroku). Ensure that the hosting services are operational and up-to-date.
+
+- **Front-End Libraries:** If the website relies on front-end libraries or frameworks, document the specific libraries and their versions.
+
+- **Database (if applicable):** If there's a database used for storing articles or resources, document the database type and any specific requirements for maintaining it.
+
+Please regularly review and update these dependencies to ensure the Medibot website's smooth operation.
+
+For assistance or inquiries related to website maintenance or IBM Watson Assistant, refer to the "Contact Us" page or reach out to the website administrators.
+
+Thank you for your commitment to providing accessible healthcare information through Medibot, powered by IBM Watson Assistant!
